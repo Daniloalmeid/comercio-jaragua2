@@ -37,6 +37,22 @@ header > h1#comercio{
     text-shadow: 6px 6px 10px black;
     
 }
+menu#itens{
+    background-color: var(--cor1);
+}
+.menuinicio{
+    padding: 20px;
+    
+}
+menu > ul > li > a.linkmenu{
+    color: black;
+    text-decoration: none;
+    
+}
+menu > ul > li{
+    display: inline;
+    padding: 10px;
+}
 .artigos{
     background-color: black;
     text-align: center;
