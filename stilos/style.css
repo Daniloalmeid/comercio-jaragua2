@@ -19,6 +19,7 @@ body{
     background-color: rgb(222, 220, 220);
 }
 header > h1#redessociais{
+    width: 100vw;
     height: 60px;
     padding: 10px;
     margin-bottom: 2px;
@@ -54,14 +55,16 @@ menu > ul > li{
     padding: 10px;
     
 }
-section.bemvindo{
+.bemvindo{
+    width: 90%;
+    background-color: white;
+    margin: auto;
     
     
 }
 section > p.bemvindop{
-    text-align: center;
-    display: inline-block;
-    text-align: justify;
+    
+    
     
     
 }
