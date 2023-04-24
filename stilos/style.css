@@ -37,19 +37,28 @@ header > h1#comercio{
     text-shadow: 6px 6px 10px black;
     
 }
+.artigos{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
 .comercio1{
+    margin: 60px;
     display: inline-block;
     background-color: red;
     width: 273px;
     height: 230px;
+    
 }
 .comercio2{
+    margin: 60px;
     display: inline-block;
     background-color: rgb(4, 99, 4);
     width: 273px;
     height: 230px;
 }
 .comercio3{
+    margin: 60px;
     display: inline-block;
     background-color: blue;
     width: 273px;
