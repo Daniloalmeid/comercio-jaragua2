@@ -3,7 +3,7 @@
 *{
     padding: 0px;
     margin: 0px;
-    width: 100vw;
+    
 }
 :root{
     --cor0: #29335c;
@@ -16,10 +16,10 @@
     --fonte-destaque: "patua one", cursive;
 }
 body{
-    background-color: rgb(222, 220, 220);
+    background-color: rgb(164, 69, 69);
+    
 }
 header > h1#redessociais{
-    width: 100vw;
     height: 60px;
     padding: 10px;
     margin-bottom: 2px;
@@ -54,6 +54,9 @@ menu > ul > li{
     display: inline;
     padding: 10px;
     
+}
+.explore{
+    text-align: center;
 }
 .bemvindo{
     width: 90%;
