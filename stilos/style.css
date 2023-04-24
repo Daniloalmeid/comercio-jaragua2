@@ -59,13 +59,23 @@ menu > ul > li{
     width: 90%;
     background-color: white;
     margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+
     
     
 }
-section > p.bemvindop{
-    
-    
-    
+p.bemvindop{
+    width: 90%;
+    text-align: center;
+    text-align: justify; 
+    text-indent: 30px;
+    margin-bottom: 20px; 
+    padding: 1px;
+    font-family: var(--fonte-padrao);
     
 }
 
