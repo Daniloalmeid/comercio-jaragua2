@@ -16,7 +16,7 @@
     --fonte-destaque: "patua one", cursive;
 }
 body{
-    background-color: rgb(164, 69, 69);
+    background-color: rgb(219, 216, 216);
     
 }
 header > h1#redessociais{
@@ -90,7 +90,8 @@ p.bemvindop{
 .comercio1{
     margin: 60px;
     display: inline-block;
-    background-color: red;
+    background-color: white;
+    border-radius: 20px;
     width: 273px;
     height: 230px;
     
