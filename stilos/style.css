@@ -1,0 +1,37 @@
+@charset "UTF8";
+@import url('https://fonts.googleapis.com/css2?family= Patua +One & display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    width: 100vw;
+}
+:root{
+    --cor0: #29335c;
+    --cor1: #ffc15e;
+    --cor2: #f4faff;
+    --cor3: #00a6a6;
+    --cor4: #9a031e;
+    --cor5: #4f6d7a;
+    --fonte-padrao: arial, verdana, helvetica, sans-serif;
+    --fonte-destaque: "patua one", cursive;
+}
+body{
+    background-color: rgb(222, 220, 220);
+}
+header > h1#redessociais{
+    height: 60px;
+    padding: 10px;
+    margin-bottom: 2px;
+    font-size: 1.5em;
+    font-family: var(--fonte-destaque);
+    background-image: linear-gradient(to left, #29335c , blue);
+    color: white;
+    
+}
+header > h1#comercio{
+    height: 60px;
+    padding: 10px;
+    background-image: linear-gradient(to left, #29335c , blue);
+    color: white;
+    
+}
