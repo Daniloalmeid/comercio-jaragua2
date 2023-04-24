@@ -26,6 +26,7 @@ header > h1#redessociais{
     font-family: var(--fonte-destaque);
     background-image: linear-gradient(to left, #29335c , blue);
     color: white;
+    text-shadow: 6px 6px 10px black;
     
 }
 header > h1#comercio{
@@ -33,5 +34,24 @@ header > h1#comercio{
     padding: 10px;
     background-image: linear-gradient(to left, #29335c , blue);
     color: white;
+    text-shadow: 6px 6px 10px black;
     
+}
+.comercio1{
+    display: inline-block;
+    background-color: red;
+    width: 273px;
+    height: 230px;
+}
+.comercio2{
+    display: inline-block;
+    background-color: rgb(4, 99, 4);
+    width: 273px;
+    height: 230px;
+}
+.comercio3{
+    display: inline-block;
+    background-color: blue;
+    width: 273px;
+    height: 230px;
 }
