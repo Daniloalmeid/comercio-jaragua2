@@ -99,12 +99,14 @@ p.bemvindop{
     
 }
 .h2comercio{
+    position: relative;
+    top: 20px;
     color: var(--cor1);
     text-shadow: 1px 1px 1px rgb(67, 66, 66);
 }
 .ddiv1{
     position: relative;
-    top: 40px;
+    top: 30px;
     display: inline-block;
     width: 273px;
     height: 130px;
@@ -113,12 +115,15 @@ p.bemvindop{
 }
 .textobox{
     position: relative;
-    top: 30px;
+    top: 50px;
     color: black;
 }
 .logoloja{
+    position: relative;
     border-radius: 50%;
     width: 100px;
+    left: 0%;
+    bottom: 129%;
     
 }
 .comercio2{
