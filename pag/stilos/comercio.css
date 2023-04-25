@@ -58,9 +58,19 @@ main > article.boxcomercios{
 main > article > div.boxcomercios1{
    width: 270px;
    height: 130px;
+   margin: 50px;
    display: inline-block;
-   background-color: red;
+   background-color: white;
+   border-radius: 23px;
+   border: 3px solid black;
 
+}
+.logocomidas{
+    position: relative;
+    width: px;
+    border-radius: 10%;
+    left: 0px;
+    top: -27px;
 }
 main > article > div.boxcomercios2{
     width: 270px;
