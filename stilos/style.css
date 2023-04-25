@@ -47,8 +47,16 @@ menu > ul > li > a.linkmenu{
     color: black;
     text-decoration: none;
     font-size: 1.2em;
+    padding: 10px;
     
     
+}
+menu >ul > li > a:hover{
+    padding: 10px;
+    background-color: var(--cor0);
+    color: white;
+    border-radius: 15px;
+    transition: color .4s;
 }
 menu > ul > li{
     display: inline;
@@ -183,6 +191,7 @@ padding: 10px;
     border-radius: 50%;
     left: 0px;
     top: -75px;
+    border: 3px solid #29335c ;
 }
 .h2anuncie{
     position: relative;
@@ -198,26 +207,11 @@ section.anuncie2{
     padding: 10px;
     text-align: center;
 }
-section > h2 >a{
-    text-decoration: none;
-    color: white;
-    text-shadow: 2px 2px 4px black;
-}
-section > h2 >a:hover{
-    background-color: var(--cor4);
-    color: white;
-    border: 20px;
-    border-radius: 20px;
+.vagas{
+    margin-top: 10px;
     padding: 10px;
-    margin: 10px;
+    background-color: var(--cor0);
+    height: 300px;
+}
 
-    
-}
-.panuncie{
-    text-justify: auto;
-    color: black;
-    font-size: 1.2em;
-}
-.logoloja1{
 
-}
