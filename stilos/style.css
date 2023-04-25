@@ -189,11 +189,20 @@ section.anuncie{
 section > h2 >a{
     text-decoration: none;
     color: white;
-
+    text-shadow: 2px 2px 4px black;
 }
 section > h2 >a:hover{
     background-color: var(--cor4);
-    color: rgb(240, 11, 11);
-    border: 10px;
+    color: white;
+    border: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+
     
+}
+.panuncie{
+    text-justify: auto;
+    color: black;
+    font-size: 1.2em;
 }
