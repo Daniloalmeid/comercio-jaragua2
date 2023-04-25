@@ -59,6 +59,7 @@ menu > ul > li{
     text-align: left;
     padding: 5px;
     color: var(--cor1);
+    text-shadow: 1px 1px 1px black;
 }
 .bemvindo{
     width: 90%;
