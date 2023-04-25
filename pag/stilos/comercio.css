@@ -61,7 +61,6 @@ main > article > div.boxalimentos{
    margin: 50px;
    display: inline-block;
    background-color: white;
-   border-radius: px;
    border: 2px solid #ffc15e;
    
 
@@ -162,17 +161,55 @@ main > article > div.boxanimais{
     border-radius: 2px 2px 2px white;
     
 }
- main > article > div.boxcomercios5{
+ main > article > div.boxacademia{
     width: 270px;
     height: 130px;
+    margin: 50px;
     display: inline-block;
-    background-color: rgb(205, 6, 192);
+    background-color: white;
+    border-radius: px;
+    border: 2px solid #ffc15e;
  
  }
- main > article > div.boxcomercios6{
+ .logoacademia{
+    position: relative;
     width: 270px;
     height: 130px;
+    left: 0px;
+}
+.h1academia{
+    position: relative;
+    border-radius: 5px;
+    width: 270px;
+    padding: 1.5px;
+    left: 0%;
+    top: -166px;
+    background-color: var(--cor1);
+    border-radius: 2px 2px 2px white;
+    }
+ main > article > div.boxlojas{
+    width: 270px;
+    height: 130px;
+    margin: 50px;
     display: inline-block;
-    background-color: rgb(217, 244, 11);
+    background-color: white;
+    border-radius: px;
+    border: 2px solid #ffc15e;
  
  }
+ .logolojas{
+    position: relative;
+    width: 270px;
+    height: 130px;
+    left: 0px;
+}
+.h1lojas{
+    position: relative;
+    border-radius: 5px;
+    width: 270px;
+    padding: 1.5px;
+    left: 0%;
+    top: -166px;
+    background-color: var(--cor1);
+    border-radius: 2px 2px 2px white;
+    }
