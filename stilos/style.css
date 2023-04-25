@@ -105,7 +105,7 @@ p.bemvindop{
     color: var(--cor1);
     text-shadow: 1px 1px 1px rgb(67, 66, 66);
 }
-.ddiv1
+.ddiv1{
     position: relative;
     top: 30px;
     display: inline-block;
@@ -154,7 +154,7 @@ p.bemvindop{
     width: 100px;
     left: 0%;
     bottom: 129%;
-}
+}*/
 
 .comercio3{
     margin-top: 80px;
@@ -183,7 +183,7 @@ p.bemvindop{
     width: 100px;
     left: 0%;
     bottom: 129%;
-}
+}*/
 section.anuncie{
     background-image: linear-gradient(to left,#cf9d4c , #ec9304 );
     padding: 10px;
