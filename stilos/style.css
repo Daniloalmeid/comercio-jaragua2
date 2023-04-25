@@ -131,6 +131,7 @@ p.bemvindop{
 }
 .comercio2{
     margin-top: 80px;
+    padding: 10px;
     display: inline-block;
     background-color: white;
     border: 3px solid var(--cor1);
@@ -159,6 +160,7 @@ p.bemvindop{
 
 .comercio3{
     margin-top: 80px;
+    padding: 10px;
     display: inline-block;
     background-color: white;
     border: 3px solid var(--cor1);
