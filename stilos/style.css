@@ -56,7 +56,9 @@ menu > ul > li{
     
 }
 .explore{
-    text-align: center;
+    text-align: left;
+    padding: 5px;
+    color: var(--cor1);
 }
 .bemvindo{
     width: 90%;
