@@ -1,0 +1,17 @@
+@charset "UTF8";
+@import url('https://fonts.googleapis.com/css2?family= Patua +One & display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+:root{
+    --cor0: #29335c;
+    --cor1: #ffc15e;
+    --cor2: #f4faff;
+    --cor3: #00a6a6;
+    --cor4: #9a031e;
+    --cor5: #4f6d7a;
+    --fonte-padrao: arial, verdana, helvetica, sans-serif;
+    --fonte-destaque: "patua one", cursive;
+}

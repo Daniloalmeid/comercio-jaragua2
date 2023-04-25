@@ -25,7 +25,7 @@ header > h1#redessociais{
     margin-bottom: 2px;
     font-size: 1.5em;
     font-family: var(--fonte-destaque);
-    background-image: linear-gradient(to left, #29335c , blue);
+    background-color: var(--cor0);
     color: white;
     text-shadow: 6px 6px 10px black;
     
@@ -33,7 +33,7 @@ header > h1#redessociais{
 header > h1#comercio{
     height: 60px;
     padding: 10px;
-    background-image: linear-gradient(to left, #29335c , blue);
+    background-color: var(--cor0);
     color: white;
     text-shadow: 6px 6px 10px black;
     
