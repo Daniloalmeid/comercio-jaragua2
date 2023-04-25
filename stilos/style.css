@@ -226,6 +226,11 @@ padding: 10px;
     color: #ffc15e;
     text-shadow: 1px 1px 2px var(--cor0);
 }
+a.linkartigos{
+    text-decoration: none;
+    
+    
+}
 
 
 section.anuncie2{
