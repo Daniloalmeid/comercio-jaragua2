@@ -105,6 +105,7 @@ padding: 10px;
     top: -75px;
 }
 .comercio2{
+    margin-top: 75px;
     display: inline-block;
     width: 270px;
     height: 130px;
@@ -112,12 +113,29 @@ padding: 10px;
     border-radius: 20px;
     border: 4px solid #00a6a6;
 }
+.logoloja2{
+    position: relative;
+    width: 100px;
+    border-radius: 20%;
+    left: 0px;
+    top: -75px;
+    }
 .comercio3{
+    margin-top: 75px;
     display: inline-block;
     width: 270px;
     height: 130px;
-    background-color: rgb(4, 41, 253);
+    background-color: white;
+    border-radius: 20px;
+    border: 4px solid #9a031e;
 }
+.logoloja3{
+    position: relative;
+    width: 100px;
+    border-radius: 50%;
+    left: 0px;
+    top: -75px;
+    }
 
 section.anuncie{
     background-image: linear-gradient(to left,#cf9d4c , #ec9304 );
