@@ -40,7 +40,7 @@ header > h1#comercio{
 }
 menu#itens{
     background-color: var(--cor1);
-    padding: 10px;
+    padding: 5px;
     text-align: center;
 }
 menu > ul > li > a.linkmenu{
