@@ -83,7 +83,28 @@ p.bemvindop{
     font-family: var(--fonte-padrao);
     
 }
-
+.boxcomercio{
+text-align: center;
+padding: 10;
+}
+.comercio1{
+    display: inline-block;
+    width: 270px;
+    height: 130px;
+    background-color: red;
+}
+.comercio2{
+    display: inline-block;
+    width: 270px;
+    height: 130px;
+    background-color: rgb(3, 246, 3);
+}
+.comercio3{
+    display: inline-block;
+    width: 270px;
+    height: 130px;
+    background-color: rgb(4, 41, 253);
+}
 
 section.anuncie{
     background-image: linear-gradient(to left,#cf9d4c , #ec9304 );
