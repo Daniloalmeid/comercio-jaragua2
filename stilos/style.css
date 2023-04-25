@@ -91,7 +91,11 @@ padding: 10px;
     display: inline-block;
     width: 270px;
     height: 130px;
-    background-color: red;
+    background-color: white;
+    border-radius: 20px;
+    
+    
+    
 }
 .comercio2{
     display: inline-block;
