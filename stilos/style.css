@@ -54,7 +54,7 @@ menu > ul > li > a.linkmenu{
 menu >ul > li > a:hover{
     background-color: var(--cor0);
     color: white;
-    border-radius: 15px;
+    border-radius: 10px;
     transition: color .4s;
 }
 menu > ul > li{
