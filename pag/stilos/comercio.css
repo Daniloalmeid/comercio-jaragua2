@@ -85,8 +85,11 @@ main > article > div.boxalimentos{
 main > article > div.boxanimais{
     width: 270px;
     height: 130px;
+    margin: 50px;
     display: inline-block;
-    background-color: rgb(42, 182, 11);
+    background-color: white;
+    border-radius: px;
+    border: 2px solid #ffc15e;
  
  }
  .logoanimais{
@@ -105,20 +108,60 @@ main > article > div.boxanimais{
     background-color: var(--cor1);
     border-radius: 2px 2px 2px white;
     }
- main > article > div.boxcomercios3{
+ main > article > div.boxbeleza{
     width: 270px;
     height: 130px;
+    margin: 50px;
     display: inline-block;
-    background-color: rgb(10, 58, 203);
+    background-color: white;
+    border-radius: px;
+    border: 2px solid #ffc15e;
  
  }
- main > article > div.boxcomercios4{
+ .logobeleza{
+    position: relative;
     width: 270px;
     height: 130px;
+    left: 0px;
+}
+.h1beleza{
+    position: relative;
+    border-radius: 5px;
+    width: 270px;
+    padding: 1.5px;
+    left: 0%;
+    top: -166px;
+    background-color: var(--cor1);
+    border-radius: 2px 2px 2px white;
+    
+    }
+
+ main > article > div.casaeconstrucao{
+    width: 270px;
+    height: 130px;
+    margin: 50px;
     display: inline-block;
-    background-color: rgb(150, 53, 53);
- 
+    background-color: white;
+    border-radius: px;
+    border: 2px solid #ffc15e;
  }
+ .logocasaeconstrucao{
+    position: relative;
+    width: 270px;
+    height: 130px;
+    left: 0px;
+}
+.h1casaeconstrucao{
+    position: relative;
+    border-radius: 5px;
+    width: 270px;
+    padding: 1.5px;
+    left: 0%;
+    top: -166px;
+    background-color: var(--cor1);
+    border-radius: 2px 2px 2px white;
+    
+}
  main > article > div.boxcomercios5{
     width: 270px;
     height: 130px;
