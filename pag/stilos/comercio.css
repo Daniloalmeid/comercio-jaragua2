@@ -58,6 +58,42 @@ main > article.boxcomercios{
 main > article > div.boxcomercios1{
    width: 270px;
    height: 130px;
+   display: inline-block;
    background-color: red;
 
 }
+main > article > div.boxcomercios2{
+    width: 270px;
+    height: 130px;
+    display: inline-block;
+    background-color: rgb(42, 182, 11);
+ 
+ }
+ main > article > div.boxcomercios3{
+    width: 270px;
+    height: 130px;
+    display: inline-block;
+    background-color: rgb(10, 58, 203);
+ 
+ }
+ main > article > div.boxcomercios4{
+    width: 270px;
+    height: 130px;
+    display: inline-block;
+    background-color: rgb(150, 53, 53);
+ 
+ }
+ main > article > div.boxcomercios5{
+    width: 270px;
+    height: 130px;
+    display: inline-block;
+    background-color: rgb(205, 6, 192);
+ 
+ }
+ main > article > div.boxcomercios6{
+    width: 270px;
+    height: 130px;
+    display: inline-block;
+    background-color: rgb(217, 244, 11);
+ 
+ }
