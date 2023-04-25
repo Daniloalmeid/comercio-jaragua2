@@ -55,30 +55,56 @@ menu > ul > li{
 main > article.boxcomercios{
    text-align: center;
 }
-main > article > div.boxcomercios1{
+main > article > div.boxalimentos{
    width: 270px;
    height: 130px;
    margin: 50px;
    display: inline-block;
    background-color: white;
-   border-radius: 23px;
-   border: 3px solid black;
+   border-radius: px;
+   border: 2px solid #ffc15e;
+   
 
 }
-.logocomidas{
+.logoalimentos{
     position: relative;
-    width: px;
-    border-radius: 10%;
+    width: 270px;
+    height: 130px;
     left: 0px;
-    top: -27px;
 }
-main > article > div.boxcomercios2{
+.h1comidas{
+    position: relative;
+    border-radius: 5px;
+    width: 270px;
+    padding: 1.5px;
+    left: 0%;
+    top: -166px;
+    background-color: var(--cor1);
+    border-radius: 2px 2px 2px white;
+}
+main > article > div.boxanimais{
     width: 270px;
     height: 130px;
     display: inline-block;
     background-color: rgb(42, 182, 11);
  
  }
+ .logoanimais{
+    position: relative;
+    width: 270px;
+    height: 130px;
+    left: 0px;
+}
+.h1animais{
+    position: relative;
+    border-radius: 5px;
+    width: 270px;
+    padding: 1.5px;
+    left: 0%;
+    top: -166px;
+    background-color: var(--cor1);
+    border-radius: 2px 2px 2px white;
+    }
  main > article > div.boxcomercios3{
     width: 270px;
     height: 130px;
