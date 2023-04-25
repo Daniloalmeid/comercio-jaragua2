@@ -79,7 +79,7 @@ p.bemvindop{
     text-align: justify; 
     text-indent: 30px;
     margin-bottom: 20px; 
-    padding: 1px;
+    padding: 2px;
     font-family: var(--fonte-padrao);
     
 }
@@ -90,7 +90,8 @@ p.bemvindop{
     padding: 20px;
 }
 .comercio1{
-    margin: 20px;
+    margin: 35px;
+    padding: 10px;
     display: inline-block;
     background-color: white;
     border: 4px solid var(--cor1);
@@ -129,7 +130,7 @@ p.bemvindop{
     
 }
 .comercio2{
-    margin: 20px;
+    margin: 40px;
     display: inline-block;
     background-color: white;
     border: 3px solid var(--cor1);
@@ -157,7 +158,7 @@ p.bemvindop{
 }
 
 .comercio3{
-    margin: 20px;
+    margin: 40px;
     display: inline-block;
     background-color: white;
     border: 3px solid var(--cor1);
