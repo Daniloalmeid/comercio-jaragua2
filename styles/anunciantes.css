@@ -108,15 +108,15 @@ menu > ul > li{
    background-color: #ffc15e;
 }
 .ifotos{
-    width: 450px;
-    height: 280px;
+    width: 600px;
+    height: 450px;
     margin: 10px;
     display: inline-block;
     background-color: red;
 }
 .iframefotos{
-    width: 450px;
-    height: 280px;
+    width: 447px;
+    height: 245px;
 }
 .ilocalizacao{
     width: 450px;
@@ -125,10 +125,18 @@ menu > ul > li{
     display: inline-block;
     background-color: green;
 }
+.iframelocalizacao{
+    width: 450px;
+    height: 280px;
+}
 .icardapio{
     width: 450px;
     height: 280px;
     margin: 10px;
     display: inline-block;
     background-color: blue;
+}
+.iframecardapio{
+    width: 450px;
+    height: 280px;
 }
