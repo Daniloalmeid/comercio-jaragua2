@@ -23,6 +23,7 @@ section.redessociais{
     background-color: var(--cor0);
     margin-bottom: 1px;
     text-align: center;
+    height: 100px;
 }
 .h1redessociais{
     padding: 10px;
@@ -32,11 +33,17 @@ section.redessociais{
     
 }
 img.redes1{
+    position: relative;
     width: 40px;
-    padding: 5px;
+    margin: 3px;
     border-radius: 50%;
+    left 50%;
+    top: -10px;
     
     
+}
+img.redes1:hover{
+    border: 1px solid #ffc15e;
 }
 header > h1#comercio{
     height: 60px;
