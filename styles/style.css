@@ -19,15 +19,19 @@ body{
     background-color: rgb(219, 216, 216);
     
 }
-header > h1#redessociais{
-    height: 60px;
-    padding: 10px;
-    margin-bottom: 2px;
-    font-size: 1.5em;
-    font-family: var(--fonte-destaque);
+section.redessociais{
     background-color: var(--cor0);
+    margin-bottom: 1px;
+}
+.h1redessociais{
+    padding: 10px;
     color: white;
-    text-shadow: 6px 6px 10px black;
+    text-shadow: 5px 5px 10px black;
+    
+}
+img.redes1{
+    width: 40px;
+    padding: 5px;
     
 }
 header > h1#comercio{
