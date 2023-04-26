@@ -1,0 +1,53 @@
+@charset "UTF8";
+@import url('https://fonts.googleapis.com/css2?family= Patua +One & display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+:root{
+--cor0: #29335c;
+--cor1: #ffc15e;
+--cor2: #f4faff;
+--cor3: #00a6a6;
+--cor4: #9a031e;
+--cor5: #4f6d7a;
+--fonte-padrao: arial, verdana, helvetica, sans-serif;
+--fonte-destaque: "patua one", cursive;
+}
+body{
+    background-color: rgb(219, 216, 216);
+}
+header > h1#pagcomercios{
+    height: 60px;
+    padding: 10px;
+    background-color: var(--cor0);
+    color: white;
+    text-shadow: 6px 6px 10px black;
+    
+}
+menu#itens{
+    background-color: var(--cor1);
+    padding: 10px;
+    text-align: center;
+}
+menu > ul > li > a.linkmenu{
+    color: black;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 8px;
+    
+    
+}
+menu >ul > li > a:hover{
+    padding: 10px;
+    background-color: var(--cor0);
+    color: white;
+    border-radius: 15px;
+    transition: color .4s;
+}
+menu > ul > li{
+    display: inline;
+    padding: 10px;
+    
+}
