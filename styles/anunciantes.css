@@ -112,22 +112,22 @@ menu > ul > li{
    background-color: #1d1d1d;
 }
 .ifotos{
-    display: inline;
+    display: inline-block;
     text-align: center;
-    width: 600px;
-    height: 450px;
+    width:  400px;
+    height: 250px;
     margin: 10px;
     
     
     background-color: red;
 }
 .iframefotos{
-    width: 600px;
-    height: 450px;
+    width: 400px;
+    height: 250px;
     
 }
 .ilocalizacao{
-    display: inline;
+    display: inline-block;
     width: 400px;
     height: 250px;
     margin: 10px;
@@ -140,7 +140,7 @@ menu > ul > li{
     height: 250px;
 }
 .icardapio{
-    display: inline;
+    display: inline-block;
     width: 400px;
     height: 250px;
     margin: 10px;
