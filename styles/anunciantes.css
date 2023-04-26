@@ -103,3 +103,6 @@ menu > ul > li{
     text-indent: 30px;
     font-size: 1.2em;
 }
+.iframes{
+    display: inline-block;
+}
