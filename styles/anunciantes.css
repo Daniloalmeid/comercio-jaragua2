@@ -114,6 +114,10 @@ menu > ul > li{
     display: inline-block;
     background-color: red;
 }
+.iframefotos{
+    width: 450px;
+    height: 280px;
+}
 .ilocalizacao{
     width: 450px;
     height: 280px;
