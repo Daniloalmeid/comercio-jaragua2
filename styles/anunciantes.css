@@ -1,0 +1,85 @@
+@charset "UTF8";
+@import url('https://fonts.googleapis.com/css2?family= Patua +One & display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+:root{
+    --cor0: #29335c;
+    --cor1: #ffc15e;
+    --cor2: #f4faff;
+    --cor3: #00a6a6;
+    --cor4: #9a031e;
+    --cor5: #4f6d7a;
+    --fonte-padrao: arial, verdana, helvetica, sans-serif;
+    --fonte-destaque: "patua one", cursive;
+}
+body{
+    background-color: rgb(219, 216, 216);
+    
+}
+section.redessociais{
+    background-color: var(--cor0);
+    margin-bottom: 1px;
+    text-align: center;
+    height: 100px;
+}
+.h1redessociais{
+    position: relative;
+    padding: 10px;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+    text-align: left ;
+    
+}
+img.redes1{
+    position: relative;
+    width: 40px;
+    margin: 5px;
+    border-radius: 50%;
+    left: 0%;
+    top: 0px;
+}
+
+img.redes1:hover{
+    border: 1px solid #ffc15e;
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    transition: transform 0.4s, border .2s;
+}
+header > h1#comercio{
+    height: 60px;
+    padding: 10px;
+    background-color: var(--cor0);
+    color: white;
+    text-shadow: 6px 6px 10px black;
+    
+}
+menu#itens{
+    background-color: var(--cor1);
+    padding: 5px;
+    text-align: center;
+}
+menu > ul > li > a.linkmenu{
+    color: black;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 3px;
+    
+    
+}
+menu >ul > li > a:hover{
+    background-color: var(--cor0);
+    color: white;
+    border-radius: 10px;
+    transition: color .2s;
+}
+menu > ul > li{
+    display: inline;
+    padding: 5px;
+    }
+    .banner1{
+        margin-top: 2px;
+        width: 100vw;
+    }
