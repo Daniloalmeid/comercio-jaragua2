@@ -25,7 +25,6 @@ header > h1#pagcomercios{
     background-color: var(--cor0);
     color: white;
     text-shadow: 6px 6px 10px black;
-    
 }
 menu#itens{
     background-color: var(--cor1);
