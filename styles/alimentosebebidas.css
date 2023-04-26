@@ -62,5 +62,9 @@ article >div.comercio1{
     margin: 50px;
     display: inline-block;
     background-color: white;
-    border: 2px solid #ffc15e;
+    border: 3px solid #ffc15e;
+    border-radius: 20px;
+}
+img.suamarca{
+    border-radius: 20px 20px 0px 0px;
 }
