@@ -68,3 +68,6 @@ article >div.comercio1{
 img.suamarca{
     border-radius: 20px 20px 0px 0px;
 }
+p.alimentos{
+    text-justify: auto;
+}
