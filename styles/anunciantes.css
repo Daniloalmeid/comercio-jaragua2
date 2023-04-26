@@ -115,23 +115,23 @@ menu > ul > li{
     background-color: red;
 }
 .iframefotos{
-    width: 447px;
-    height: 245px;
+    width: 600px;
+    height: 450px;
 }
 .ilocalizacao{
-    width: 450px;
-    height: 280px;
+    width: 600px;
+    height: 450px;
     margin: 10px;
     display: inline-block;
     background-color: green;
 }
 .iframelocalizacao{
-    width: 450px;
-    height: 280px;
+    width: 600px;
+    height: 450px;
 }
 .icardapio{
-    width: 450px;
-    height: 280px;
+    width: 600px;
+    height: 450px;
     margin: 10px;
     display: inline-block;
     background-color: blue;
