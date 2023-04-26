@@ -78,8 +78,28 @@ menu >ul > li > a:hover{
 menu > ul > li{
     display: inline;
     padding: 5px;
-    }
-    .banner1{
-        margin-top: 2px;
-        width: 100vw;
-    }
+}
+.banner1{
+    margin-top: 2px;
+    width: 100vw;
+}
+.padariapao{
+    color: #ffc15e;
+    text-shadow: 1px 1px 2px black;
+}
+.cabpadaria{
+    width: 90%;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 6px;
+    margin-bottom: 10px;
+}
+.dpadaria{
+    text-align: center;
+    padding: 10px;
+    text-justify: auto;
+    text-indent: 30px;
+    font-size: 1.2em;
+}
