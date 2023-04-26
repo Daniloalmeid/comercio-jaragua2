@@ -22,16 +22,20 @@ body{
 section.redessociais{
     background-color: var(--cor0);
     margin-bottom: 1px;
+    text-align: center;
 }
 .h1redessociais{
     padding: 10px;
     color: white;
     text-shadow: 5px 5px 10px black;
+    text-align: left ;
     
 }
 img.redes1{
     width: 40px;
     padding: 5px;
+    border-radius: 50%;
+    
     
 }
 header > h1#comercio{
