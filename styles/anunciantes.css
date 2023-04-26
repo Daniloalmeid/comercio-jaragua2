@@ -80,8 +80,12 @@ menu > ul > li{
     padding: 5px;
 }
 .banner1{
+    display: block;
+    width: 90%;
+    margin: auto;
+    border-radius: 20px;
     margin-top: 2px;
-    width: 100vw;
+    margin-bottom: 2px;
 }
 .padariapao{
     color: #ffc15e;
@@ -108,35 +112,35 @@ menu > ul > li{
    background-color: #ffc15e;
 }
 .ifotos{
-    width: 600px;
-    height: 450px;
+    width: 400px;
+    height: 250px;
     margin: 10px;
     display: inline-block;
     background-color: red;
 }
 .iframefotos{
-    width: 600px;
-    height: 450px;
+    width: 400px;
+    height: 250px;
 }
 .ilocalizacao{
-    width: 600px;
-    height: 450px;
+    width: 400px;
+    height: 250px;
     margin: 10px;
     display: inline-block;
     background-color: green;
 }
 .iframelocalizacao{
-    width: 600px;
-    height: 450px;
+    width: 400px;
+    height: 250px;
 }
 .icardapio{
-    width: 600px;
-    height: 450px;
+    width: 400px;
+    height: 250px;
     margin: 10px;
     display: inline-block;
     background-color: blue;
 }
 .iframecardapio{
-    width: 450px;
-    height: 280px;
+    width: 400px;
+    height: 250px;
 }
