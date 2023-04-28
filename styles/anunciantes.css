@@ -178,14 +178,14 @@ menu > ul > li{
     margin-right: 20px;
 }
 #radio1:checked ~ .navigation-auto .auto-btn1{
-    background-color: black;
+    background-color: white;
 }
 #radio2:checked ~ .navigation-auto .auto-btn2{
-    background-color: black;
+    background-color: white;
 }
 #radio3:checked ~ .navigation-auto .auto-btn3{
-    background-color: black;
+    background-color: white;
 }
 #radio4:checked ~ .navigation-auto .auto-btn4{
-    background-color: black;
+    background-color: white;
 }
