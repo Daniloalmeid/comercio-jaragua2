@@ -221,12 +221,23 @@ menu > ul > li{
     text-shadow: 2px 2px 5px white;
 }
 .produto1{
-    padding: 10px;
+    margin: 10px;
     text-align: center;
-    background-color: white;
+    background-color: #ffc15e;
     width: 125px;
     height: 125px;
+    border-radius: 10px;
+}
+.bacpao{
+    background-color: #29335c;
+    border-radius: 10px 10px 0px 0px;
 }
 .icopao{
-    background-color: #9a031e;
+    background-color: #29335c;
+    
+}
+.ppao{
+    margin-top: 5px;
+    padding: 1px;
+
 }
