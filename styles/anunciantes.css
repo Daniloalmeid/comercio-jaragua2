@@ -221,7 +221,6 @@ menu > ul > li{
 }
 .cardapio{
     text-align: center;
-    background-color: red;
     margin-top: 10px;
 }
 .h1cardapio{
@@ -265,12 +264,14 @@ menu > ul > li{
     width: 125px;
     height: 125px;
     border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
 }
 .bacpao{
-    background-color: #29335c;
+   
     border-radius: 10px 10px 0px 0px;
 }
 .icopao{
+    width: 125px;
     position: relative;
     left: 0px;
     top: 0px;
@@ -279,7 +280,7 @@ menu > ul > li{
     
 }
 .ppao{
-    margin-top: 5px;
+    margin-top: px;
     padding: 1px;
 
 }
