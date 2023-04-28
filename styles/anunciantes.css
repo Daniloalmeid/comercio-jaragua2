@@ -211,6 +211,7 @@ menu > ul > li{
 }
 .cardapio{
     background-color: red;
+    margin-top: 10px;
 }
 .h1cardapio{
     margin-bottom: 8px;
@@ -244,7 +245,7 @@ menu > ul > li{
     left: 152px;
     top: -57px;
 }
-.produto1{
+.todosprodutos{
     display: inline-block;
     margin: 10px;
     text-align: center;
@@ -265,13 +266,4 @@ menu > ul > li{
     margin-top: 5px;
     padding: 1px;
 
-}
-.produto2{
-    display: inline-block;
-    margin: 10px;
-    text-align: center;
-    background-color: #ffc15e;
-    width: 125px;
-    height: 125px;
-    border-radius: 10px;
 }
