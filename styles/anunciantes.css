@@ -112,7 +112,7 @@ menu > ul > li{
     padding: 10px;
     color: black;
     text-align: center;
-    background-color: #ffc15e;
+    background-image: linear-gradient(to right,#ffc15e,#da8a08);
     text-shadow: 2px 2px 5px white;
 }
 .slider{
@@ -206,11 +206,11 @@ menu > ul > li{
     padding: 10px;
     color: black;
     text-align: center;
-    background-color: #ffc15e;
+    background-image: linear-gradient(to right,#ffc15e,#da8a08);
     text-shadow: 2px 2px 5px white;
 }
 .plocalizacao{
-    background-color: var(--cor1);
+    background-image: linear-gradient(to right,#ffc15e,#da8a08);
     margin-bottom: 4px;
     color: black;
     text-shadow: .2px .2px .2px black;
@@ -228,7 +228,7 @@ menu > ul > li{
     padding: 10px;
     color: black;
     text-align: center;
-    background-color: #ffc15e;
+    background-image: linear-gradient(to right,#ffc15e,#da8a08);
     text-shadow: 2px 2px 5px white;
 }
 .h2faca{
