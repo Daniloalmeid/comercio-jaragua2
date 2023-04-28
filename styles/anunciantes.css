@@ -108,50 +108,16 @@ menu > ul > li{
     font-size: 1.2em;
 }
 .slider{
-    padding: 50px;
     margin: 0 auto;
     width: 400px;
     height: 250px;
-    overflow: hidden; 
+    overflow: hidden;
 }
 .slides{
-    width: 500%;
+    width: 400%;
     height: 250px;
     display: flex;
-    
 }
 .slides input{
     display: none;
-}
-.slide{
-    width: 25%;
-    position: relative;
-}
-.slide img{
-    width: 400px;
-}
-.manual-navigation{
-    position: absolute;
-    width: 400px;
-    margin-top: -40px;
-    display: flex;
-    justify-content: center;
-}
-.manual-btn{
-    border: 2px solid black;
-    padding: 5px;
-    border-radius: 30px;
-    cursor: pointer;
-    
-}.manual-btn:not(:last-child){
-    margin-right: 40px;
-}
-.manual-btn:hover{
-    background-color: #ffc15e;
-}
-#radio1:checked ~ .first{
-    margin-left: 0px;
-}
-#radio2:checked ~ .first{
-    margin-left: -25%;
 }
