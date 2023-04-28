@@ -83,7 +83,7 @@ menu > ul > li{
     display: block;
     width: 90%;
     margin: auto;
-    border-radius: 20px;
+    border-radius: 10px;
     margin-top: 2px;
     margin-bottom: 2px;
 }
@@ -108,15 +108,16 @@ menu > ul > li{
     font-size: 1.2em;
 }
 .h1nossasfotos{
-    color: #29335c;
+    margin-bottom: 8px;
     padding: 10px;
+    color: black;
     text-align: center;
-    background-color: #00a6a6;
+    background-color: #ffc15e;
 }
 .slider{
     margin: 0 auto;
-    width: 400px;
-    height: 250px;
+    width: 600px;
+    height: 450px;
     overflow: hidden;
 }
 .slides{
@@ -133,7 +134,7 @@ menu > ul > li{
     transition: 2s;
 }
 .slide img{
-    width: 400px;
+    width: 600px;
 }
 .manual-navigation{
     position: absolute;
