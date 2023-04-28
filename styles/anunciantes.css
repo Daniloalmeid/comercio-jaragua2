@@ -107,6 +107,12 @@ menu > ul > li{
     text-indent: 30px;
     font-size: 1.2em;
 }
+.h1nossasfotos{
+    color: #29335c;
+    padding: 10px;
+    text-align: center;
+    background-color: #00a6a6;
+}
 .slider{
     margin: 0 auto;
     width: 400px;
