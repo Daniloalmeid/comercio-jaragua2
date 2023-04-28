@@ -220,6 +220,27 @@ menu > ul > li{
     background-color: #ffc15e;
     text-shadow: 2px 2px 5px white;
 }
+.h2faca{
+    padding: 10px;
+    
+}
+.telwats{
+    padding: 10px;
+}
+.wats{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    left: 146px;
+    top: -41px;
+    border-radius: 50%;
+    
+}
+.tel{
+    position: relative;
+    left: 152px;
+    top: -57px;
+}
 .produto1{
     margin: 10px;
     text-align: center;
