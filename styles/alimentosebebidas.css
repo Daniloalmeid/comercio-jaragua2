@@ -68,4 +68,10 @@ img.suamarca{
 }
 p.alimentos{
     text-justify: auto;
+    
 }
+.palimentos{
+    text-justify: auto;
+    font-size: .8em;
+}
+    

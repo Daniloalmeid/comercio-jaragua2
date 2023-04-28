@@ -209,3 +209,24 @@ menu > ul > li{
     background-color: #ffc15e;
     text-shadow: 2px 2px 5px white;
 }
+.cardapio{
+    background-color: red;
+}
+.h1cardapio{
+    margin-bottom: 8px;
+    padding: 10px;
+    color: black;
+    text-align: center;
+    background-color: #ffc15e;
+    text-shadow: 2px 2px 5px white;
+}
+.produto1{
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    width: 125px;
+    height: 125px;
+}
+.icopao{
+    background-color: #9a031e;
+}
