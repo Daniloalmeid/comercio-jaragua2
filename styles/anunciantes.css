@@ -220,6 +220,7 @@ menu > ul > li{
     text-decoration: none;
 }
 .cardapio{
+    text-align: center;
     background-color: red;
     margin-top: 10px;
 }
@@ -257,6 +258,7 @@ menu > ul > li{
 }
 .todosprodutos{
     display: inline-block;
+    text-align: center;
     margin: 10px;
     text-align: center;
     background-color: #ffc15e;
@@ -269,7 +271,11 @@ menu > ul > li{
     border-radius: 10px 10px 0px 0px;
 }
 .icopao{
-    background-color: #29335c;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    border-radius: 10px 10px 0px 0px;
+
     
 }
 .ppao{
