@@ -116,8 +116,6 @@ menu > ul > li{
     text-shadow: 2px 2px 5px white;
 }
 .slider{
-    text-align: center;
-    display: inline-block;
     margin: 0 auto;
     width: 400px;
     height: 250px;
@@ -201,9 +199,13 @@ menu > ul > li{
     background-color: white;
 }
 .waze{
-    width: 400px;
-    height: 250px;
-    display: inline-block;
+   text-align: center;
+}
+.h1waze{
+    margin-bottom: 8px;
+    padding: 10px;
+    color: black;
     text-align: center;
-
+    background-color: #ffc15e;
+    text-shadow: 2px 2px 5px white;
 }
