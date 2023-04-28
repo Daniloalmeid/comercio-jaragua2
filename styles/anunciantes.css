@@ -236,6 +236,7 @@ menu > ul > li{
     
 }
 .ulpedido{
+    padding: 10px;
     height: 50px;
     background-image: linear-gradient(to right,#ffc15e,#da8a08);
 }
@@ -285,4 +286,12 @@ menu > ul > li{
     margin-top: px;
     padding: 1px;
 
+}
+.h1redes2{
+    text-align: center;
+}
+.redes2{
+    height: 100px;
+    background-color: var(--cor0);
+    color: white;
 }
