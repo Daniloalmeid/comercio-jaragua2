@@ -113,11 +113,14 @@ menu > ul > li{
     color: black;
     text-align: center;
     background-color: #ffc15e;
+    text-shadow: 2px 2px 5px white;
 }
 .slider{
+    text-align: center;
+    display: inline-block;
     margin: 0 auto;
-    width: 600px;
-    height: 450px;
+    width: 400px;
+    height: 250px;
     overflow: hidden;
 }
 .slides{
@@ -134,7 +137,7 @@ menu > ul > li{
     transition: 2s;
 }
 .slide img{
-    width: 600px;
+    width: 400px;
 }
 .manual-navigation{
     position: absolute;
@@ -196,4 +199,11 @@ menu > ul > li{
 }
 #radio4:checked ~ .navigation-auto .auto-btn4{
     background-color: white;
+}
+.waze{
+    width: 400px;
+    height: 250px;
+    display: inline-block;
+    text-align: center;
+
 }
