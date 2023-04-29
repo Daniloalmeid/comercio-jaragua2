@@ -288,10 +288,34 @@ menu > ul > li{
 
 }
 .h1redes2{
+    position: relative;
+    padding: 10px;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+    text-align: left ;
     text-align: center;
 }
-.redes2{
-    height: 100px;
+
+
+section.redessociais2{
     background-color: var(--cor0);
-    color: white;
+    margin-bottom: 1px;
+    text-align: center;
+    height: 100px;
+}
+ 
+img.redes2{
+    position: relative;
+    width: 40px;
+    margin: 5px;
+    border-radius: 50%;
+    left: 0%;
+    top: 0px;
+}
+
+img.redes2:hover{
+    border: 1px solid #ffc15e;
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    transition: transform 0.4s, border .2s;
 }
