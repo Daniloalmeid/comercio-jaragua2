@@ -90,6 +90,7 @@ menu > ul > li{
 .padariapao{
     color: #ffc15e;
     text-shadow: 1px 1px 2px black;
+    
 }
 .cabpadaria{
     width: 90%;
@@ -99,6 +100,7 @@ menu > ul > li{
     border-radius: 20px;
     margin-top: 6px;
     margin-bottom: 10px;
+    box-shadow: 3px 3px 5px var(--cor0);
 }
 .dpadaria{
     text-align: center;
@@ -287,6 +289,7 @@ menu > ul > li{
     padding: 1px;
 
 }
+
 .h1redes2{
     position: relative;
     padding: 10px;

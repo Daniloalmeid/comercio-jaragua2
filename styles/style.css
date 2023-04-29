@@ -85,6 +85,7 @@ menu > ul > li{
     padding: 5px;
     color: var(--cor1);
     text-shadow: .8px .8px .8px black;
+    
 }
 .bemvindo{
     width: 90%;
@@ -95,6 +96,7 @@ menu > ul > li{
     margin-top: 6px;
     margin-bottom: 10px;
     text-justify: auto;
+    box-shadow: 3px 3px 5px var(--cor0);
 }
 p.bemvindop{
     width: 90%;
@@ -119,6 +121,7 @@ padding: 10px;
     background-color: white;
     border-radius: 20px;
     border: 4px solid #ffc15e;
+    box-shadow: 3px 3px 5px var(--cor0);
 }
 /*.boxcomercio:hover{
     transition: transform 0.4s, border .2s; 
@@ -154,6 +157,7 @@ padding: 10px;
     background-color: white;
     border-radius: 20px;
     border: 4px solid #00a6a6;
+    box-shadow: 3px 3px 5px var(--cor0);
 }
 .logoloja2{
     position: relative;
@@ -177,6 +181,7 @@ padding: 10px;
     background-color: white;
     border-radius: 20px;
     border: 4px solid #9a031e;
+    box-shadow: 3px 3px 5px var(--cor0);
 }
 .h2serviso{
     position: relative;
@@ -202,6 +207,7 @@ padding: 10px;
     background-color: white;
     border-radius: 20px;
     border: 4px solid #29335c;
+    box-shadow: 3px 3px 5px var(--cor0);
 }
 .logoanuncie{
     position: relative;
@@ -228,6 +234,7 @@ padding: 10px;
     background-color: white;
     border-radius: 20px;
     border: 4px solid #ffc15e;
+    box-shadow: 3px 3px 5px var(--cor0);
 }
 .logocompra{
     position: relative;
