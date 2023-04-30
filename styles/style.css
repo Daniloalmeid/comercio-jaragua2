@@ -25,6 +25,12 @@ section.redessociais{
     text-align: center;
     height: 100px;
 }
+.logo{
+    background-color: var(--cor0);
+}
+.logo1{
+    width: 220px;
+}
 .h1redessociais{
     position: relative;
     padding: 10px;
