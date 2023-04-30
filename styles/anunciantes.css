@@ -48,13 +48,11 @@ img.redes1:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
     transition: transform 0.4s, border .2s;
 }
-header > h1#comercio{
-    height: 60px;
-    padding: 10px;
+.logo{
     background-color: var(--cor0);
-    color: white;
-    text-shadow: 6px 6px 10px black;
-    
+}
+.logo1{
+    width: 300px;
 }
 menu#itens{
     background-color: var(--cor1);

@@ -47,13 +47,20 @@ img.redes1:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
     transition: transform 0.4s, border .2s;
 }
-header > h1#pagalimentos{
-    height: 60px;
+h1#pagalimentos{
+    margin-top: 2px;
     padding: 10px;
     background-color: var(--cor0);
     color: white;
     text-shadow: 6px 6px 10px black;
+    text-align: center;
     
+}
+.logo{
+    background-color: var(--cor0);
+}
+.logo1{
+    width: 300px;
 }
 menu#itens{
     background-color: var(--cor1);
