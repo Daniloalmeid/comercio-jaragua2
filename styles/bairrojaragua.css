@@ -86,3 +86,40 @@ menu > ul > li{
     padding: 5px;
     
 }
+.h1nossobairro{
+    margin-top: 2px;
+    padding: 10px;
+    background-color: var(--cor0);
+    color: white;
+    text-shadow: 6px 6px 10px black;
+    text-align: center;
+    
+}
+.textojaragua{
+    width: 90%;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    text-justify: auto;
+    box-shadow: 3px 3px 5px var(--cor0);
+    text-indent: 30px;
+}
+.ptextojaragua{
+        width: 90%;
+        text-align: center;
+        text-align: justify; 
+        text-indent: 30px;
+        margin-bottom: 20px; 
+        padding: 2px;
+        font-family: var(--fonte-padrao);
+        
+}
+.bairros{
+    background-image: linear-gradient(to right, #ffc15e,#b98838);
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}

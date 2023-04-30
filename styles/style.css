@@ -118,7 +118,7 @@ p.bemvindop{
 text-align: center;
 padding: 10px;
 }
-.comercio1{
+.comercios{
     margin-top: 60px;
     padding: 0px;
     display: inline-block;
@@ -153,7 +153,7 @@ padding: 10px;
     color: var(--cor1);
     text-shadow: 1px 1px 2px var(--cor0);
 }
-.comercio2{
+.empregos{
     margin-top: 75px;
     margin-left: 50px;
     margin-right: 50px;
@@ -179,7 +179,7 @@ padding: 10px;
     color:var(--cor3);
     text-shadow: 1px 1px 2px var(--cor0);
 }
-.comercio3{
+.servisos{
     margin-top: 75px;
     display: inline-block;
     width: 270px;
@@ -230,7 +230,7 @@ padding: 10px;
     color: var(--cor0);
     text-shadow: 1px 1px 2px var(--cor0);
 }
-.compra{
+.compraevenda{
     margin-top: 75px;
     margin-left: 50px;
     margin-right: 50px;
@@ -264,7 +264,7 @@ a.linkartigos{
 }
 
 
-section.anuncie2{
+section.vagasdeemprego{
     background-image: linear-gradient(to left,#cf9d4c , #ec9304 );
     padding: 7px;
     text-align: center;
@@ -275,5 +275,18 @@ section.anuncie2{
     background-color: var(--cor0);
     height: 300px;
 }
+.bairrojaragua{
+    margin-top: 75px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: inline-block;
+    width: 270px;
+    height: 130px;
+    background-color: white;
+    border-radius: 20px;
+    border: 4px solid #29335c;
+    box-shadow: 3px 3px 5px var(--cor0);
+}
+
 
 
