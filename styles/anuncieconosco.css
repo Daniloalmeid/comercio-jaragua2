@@ -80,6 +80,8 @@ menu > ul > li{
 .anuncieconosco{
     width: 90%;
     margin: auto;
+    
+    box-shadow: 5px 5px 10px var(--cor0);
 }
 .h1anuncieconosco{
     margin-top: 0px;
@@ -116,8 +118,17 @@ menu > ul > li{
     
 }
 .valores{
-    width: 330px;
+
+    padding: 10px;
+    width: 350px;
     height: 110px;
-   margin: auto;
+    margin: auto;
     background-color: var(--cor1);
+    box-shadow: 5px 5px 10px var(--cor0);
+}
+.livalores{
+    position: relative;
+    left: 7%;
+    top: 0px;
+    padding: 5px;
 }
