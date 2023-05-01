@@ -118,5 +118,6 @@ menu > ul > li{
 .valores{
     width: 330px;
     height: 110px;
-    background-color: var(--cor3);
+   margin: auto;
+    background-color: var(--cor1);
 }
