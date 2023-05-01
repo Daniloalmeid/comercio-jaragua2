@@ -119,26 +119,24 @@ menu > ul > li{
 }
 .valores{
     display: flex;
-    justify-content: center;
-    margin: 0 auto;
-
-
+    flex-wrap: wrap;
     padding: 10px;
+    
 
 }
 .valores1{
-    display: inline-block;
-    margin:  auto;
+    
+    margin:auto;
     width: 330px;
     height: 160px;
     background-color: #2a0ae0;
 }
 .valores2{
-    display: inline-block;
+    
     margin:  auto;
     width: 330px;
     height: 160px;
-    background-color: #2a0ae0;
+    background-color: #e00a0a;
 }
 
 livalores{
