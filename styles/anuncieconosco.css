@@ -96,10 +96,18 @@ menu > ul > li{
     background-color: white;
     
 }
+.h2banneranuncie{
+    position: relative;
+    left: 0%;
+    top: 3px;
+    padding: 10px;
+    color: var(--cor0);
+    text-shadow: 1px 1px 1px var(--cor1);
+
+}
 .banneranuncio{
-   
-    text-align: center;
+   text-align: center;
 }
 .imgatendente{
-    
+    border-radius: 20px;
 }
