@@ -111,21 +111,37 @@ menu > ul > li{
    text-align: center;
 }
 .imgatendente{
-
+    width: 330px;
+    height: 110px;
     border-radius: 20px;
     margin: auto;
     
 }
 .valores{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+
 
     padding: 10px;
-    width: 350px;
-    height: 110px;
-    margin: auto;
-    background-color: var(--cor1);
-    box-shadow: 5px 5px 10px var(--cor0);
+
 }
-.livalores{
+.valores1{
+    display: inline-block;
+    margin:  auto;
+    width: 330px;
+    height: 160px;
+    background-color: #2a0ae0;
+}
+.valores2{
+    display: inline-block;
+    margin:  auto;
+    width: 330px;
+    height: 160px;
+    background-color: #2a0ae0;
+}
+
+livalores{
     position: relative;
     left: 7%;
     top: 0px;
