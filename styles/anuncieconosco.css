@@ -109,7 +109,14 @@ menu > ul > li{
    text-align: center;
 }
 .imgatendente{
+    width: 330px;
+    height: 110px;
     border-radius: 20px;
     margin: auto;
     
+}
+.valores{
+    width: 330px;
+    height: 110px;
+    background-color: var(--cor3);
 }
