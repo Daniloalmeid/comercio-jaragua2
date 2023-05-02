@@ -126,6 +126,7 @@ menu > ul > li{
 }
 .valores1{
     margin: auto;
+    margin-top: 20px;
     width: 330px;
     height: 160px;
     background-color: white;
