@@ -125,23 +125,26 @@ menu > ul > li{
 
 }
 .valores1{
-    
-    margin:auto;
+    margin: auto;
     width: 330px;
     height: 160px;
-    background-color: #2a0ae0;
+    background-color: white;
+    border: 4px solid var(--cor1);
+    border-radius: 30px;
 }
 .valores2{
-    
-    margin:  auto;
+    margin: auto;
+    margin-top: 20px;
     width: 330px;
     height: 160px;
-    background-color: #e00a0a;
+    background-color: white;
+    border: 4px solid var(--cor1);
+    border-radius: 30px;
 }
 
-livalores{
+.livalores{
     position: relative;
-    left: 7%;
-    top: 0px;
+    left: 10%;
+    top: 19px;
     padding: 5px;
 }
