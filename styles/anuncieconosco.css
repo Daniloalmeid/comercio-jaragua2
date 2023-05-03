@@ -136,7 +136,8 @@ menu > ul > li{
     left: 0%;
     top: 42px;
     background-image: linear-gradient(to right, white,rgb(227, 212, 212));
-    border-radius: 20px;
+    border-radius: 30px;
+    border: 5px solid var(--cor1);
 }
 .ulvalores{
     position: relative;
