@@ -99,14 +99,18 @@ menu > ul > li{
     
 }
 .h2banneranuncie{
+    width: 90%;
+    display: inline-block;
     position: relative;
     left: 0%;
     top: 3px;
-    margin-bottom: 7px;
+    margin-bottom: 10px;
     padding: 10px;
     color: white;
     text-shadow: 1px 1px 1px black;
     background-color: var(--cor4);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
 
 }
 .banneranuncio{
@@ -121,7 +125,7 @@ menu > ul > li{
     
 }
 .valores{
-   margin: 0%;
+    margin: 0%;
     height: 300PX;
     margin-top: 20px;
     background-color: var(--cor0);
@@ -159,6 +163,25 @@ menu > ul > li{
     top: 17px;
     color: #080808;
 }
+.contatos{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: var(--cor4);
+    padding: 10px;
+}
+.contato1{
+    text-align: center;
+}
+.contato2{
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+}
+.contato3{
+    text-align: center;
+}
+
 
 
 
