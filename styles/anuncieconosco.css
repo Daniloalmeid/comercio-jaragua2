@@ -118,6 +118,7 @@ menu > ul > li{
     
 }
 .valores{
+   margin: 0%;
     height: 300PX;
     margin-top: 20px;
     background-color: var(--cor0);
@@ -125,8 +126,18 @@ menu > ul > li{
     border-radius: 30px;
 }
 .valores1{
+    margin: auto;
+    padding: 10px;
+    display: flexbox;
+    text-align: center;
+    width: 450px;
+    height: 200px;
     background-color: white;
     border-radius: 20px;
 }
+.livalores{
+    text-align: left;
+}
+
 
 
