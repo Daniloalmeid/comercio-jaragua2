@@ -126,17 +126,26 @@ menu > ul > li{
     border-radius: 30px;
 }
 .valores1{
+    position: relative;
     margin: auto;
     padding: 10px;
     display: flexbox;
     text-align: center;
     width: 450px;
     height: 200px;
+    left: 0%;
+    top: 42px;
     background-color: white;
     border-radius: 20px;
 }
+.ulvalores{
+    position: relative;
+    left: 13%;
+    top: 12px;
+}
 .livalores{
     text-align: left;
+    
 }
 
 
