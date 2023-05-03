@@ -172,6 +172,7 @@ menu > ul > li{
 }
 .contato1{
     text-align: center;
+    
 }
 .contato2{
     margin-left: 50px;
@@ -183,6 +184,12 @@ menu > ul > li{
 }
 .img{
     border-radius: 50%;
+    border: 3px solid white;
+   
+}
+.h3contatos{
+    color: white;
+    text-shadow: 7px 7px 10px black;
 }
 
 
