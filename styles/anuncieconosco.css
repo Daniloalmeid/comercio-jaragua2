@@ -102,9 +102,11 @@ menu > ul > li{
     position: relative;
     left: 0%;
     top: 3px;
+    margin-bottom: 7px;
     padding: 10px;
-    color: var(--cor0);
-    text-shadow: 1px 1px 1px var(--cor1);
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    background-color: var(--cor4);
 
 }
 .banneranuncio{
