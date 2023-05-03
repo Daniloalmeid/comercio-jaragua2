@@ -135,13 +135,14 @@ menu > ul > li{
     height: 190px;
     left: 0%;
     top: 42px;
-    background-color: white;
+    background-image: linear-gradient(to right, white,rgb(227, 212, 212));
     border-radius: 20px;
 }
 .ulvalores{
     position: relative;
     left: 13%;
     top: 12px;
+    list-style-type: none;
 }
 .livalores{
     text-align: left;
