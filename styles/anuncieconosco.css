@@ -115,9 +115,11 @@ menu > ul > li{
 }
 .banneranuncio{
    text-align: center;
+   margin-top: 5px;
 }
 .imgatendente{
     box-shadow: 5px 5px 10px black;
+    margin-top: 5;
    /* width: 330px;
     height: 110px;
     border-radius: 20px;
@@ -147,6 +149,7 @@ menu > ul > li{
     border: 5px solid var(--cor1);
     box-shadow: 5px 5px 10px black;
 }
+
 .ulvalores{
     position: relative;
     left: 13%;
@@ -182,6 +185,11 @@ menu > ul > li{
 .contato3{
     text-align: center;
 }
+.img:hover{
+    transform: translate( 2px, -5px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    transition: transform 0.4s, border .2s;
+}
 .img{
     border-radius: 50%;
     border: 3px solid white;
@@ -191,7 +199,3 @@ menu > ul > li{
     color: white;
     text-shadow: 7px 7px 10px black;
 }
-
-
-
-
