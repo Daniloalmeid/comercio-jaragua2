@@ -133,6 +133,11 @@ padding: 10px;
     transition: transform 0.4s, border .2s; 
     transform: translate( 6px,-6px);
 }*/
+.comercios:hover{
+    transform: translate( 2px, -5px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    transition: transform 0.4s, border .2s;
+}
 .pbox1{
     position: relative;
     left: 0px;
@@ -165,6 +170,11 @@ padding: 10px;
     border: 4px solid #00a6a6;
     box-shadow: 3px 3px 5px var(--cor0);
 }
+.empregos:hover{
+    transform: translate( 2px, -5px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    transition: transform 0.4s, border .2s;
+}
 .logoloja2{
     position: relative;
     width: 100px;
@@ -188,6 +198,11 @@ padding: 10px;
     border-radius: 20px;
     border: 4px solid #9a031e;
     box-shadow: 3px 3px 5px var(--cor0);
+}
+.servisos:hover{
+    transform: translate( 2px, -5px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    transition: transform 0.4s, border .2s;
 }
 .h2serviso{
     position: relative;
@@ -215,6 +230,11 @@ padding: 10px;
     border: 4px solid #29335c;
     box-shadow: 3px 3px 5px var(--cor0);
 }
+.anuncie:hover{
+    transform: translate( 2px, -5px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    transition: transform 0.4s, border .2s;
+}
 .logoanuncie{
     position: relative;
     width: 100px;
@@ -241,6 +261,11 @@ padding: 10px;
     border-radius: 20px;
     border: 4px solid #ffc15e;
     box-shadow: 3px 3px 5px var(--cor0);
+}
+.compraevenda:hover{
+    transform: translate( 2px, -5px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    transition: transform 0.4s, border .2s;
 }
 .logocompra{
     position: relative;
@@ -286,6 +311,11 @@ section.vagasdeemprego{
     border-radius: 20px;
     border: 4px solid #29335c;
     box-shadow: 3px 3px 5px var(--cor0);
+}
+.bairrojaragua:hover{
+    transform: translate( 2px, -5px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    transition: transform 0.4s, border .2s;
 }
 
 
