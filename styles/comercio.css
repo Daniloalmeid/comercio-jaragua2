@@ -87,6 +87,9 @@ menu > ul > li{
     
 }
 main > article.boxcomercios{
+   display: flex;
+   justify-content: center;
+   display: inline-block;
    text-align: center;
 }
 main > article > div.boxalimentos{
@@ -96,7 +99,7 @@ main > article > div.boxalimentos{
    display: inline-block;
    background-color: white;
    border: 2px solid #ffc15e;
-   
+   border-radius: 0px 0px 20px 20px;
    
 
 }
@@ -105,14 +108,15 @@ main > article > div.boxalimentos{
     width: 270px;
     height: 130px;
     left: 0px;
+    border-radius: 0px 0px 20px 20px;
     
 }
 .h1comidas{
     position: relative;
-    border-radius: 5px;
     width: 270px;
-    padding: 1.5px;
-    left: 0%;
+    border-radius: 5px 5px 0px 0px;
+    padding: 2px;
+    left: -0.7%;
     top: -166px;
     background-color: var(--cor1);
     border-radius: 2px 2px 2px white;
@@ -125,6 +129,7 @@ main > article > div.boxanimais{
     background-color: white;
     border-radius: px;
     border: 2px solid #ffc15e;
+    border-radius: 0px 0px 20px 20px;
  
  }
  .logoanimais{
@@ -132,13 +137,15 @@ main > article > div.boxanimais{
     width: 270px;
     height: 130px;
     left: 0px;
+    border-radius: 0px 0px 20px 20px;
 }
 .h1animais{
     position: relative;
     border-radius: 5px;
     width: 270px;
-    padding: 1.5px;
-    left: 0%;
+    border-radius: 5px 5px 0px 0px;
+    padding: 2px;
+    left: -0.7%;
     top: -166px;
     background-color: var(--cor1);
     border-radius: 2px 2px 2px white;
@@ -151,6 +158,7 @@ main > article > div.boxanimais{
     background-color: white;
     border-radius: px;
     border: 2px solid #ffc15e;
+    border-radius: 0px 0px 20px 20px;
  
  }
  .logobeleza{
@@ -158,13 +166,15 @@ main > article > div.boxanimais{
     width: 270px;
     height: 130px;
     left: 0px;
+    border-radius: 0px 0px 20px 20px;
 }
 .h1beleza{
     position: relative;
     border-radius: 5px;
     width: 270px;
-    padding: 1.5px;
-    left: 0%;
+    border-radius: 5px 5px 0px 0px;
+    padding: 2px;
+    left: -0.7%;
     top: -166px;
     background-color: var(--cor1);
     border-radius: 2px 2px 2px white;
@@ -179,19 +189,22 @@ main > article > div.boxanimais{
     background-color: white;
     border-radius: px;
     border: 2px solid #ffc15e;
+    border-radius: 0px 0px 20px 20px;
  }
  .logocasaeconstrucao{
     position: relative;
     width: 270px;
     height: 130px;
     left: 0px;
+    border-radius: 0px 0px 20px 20px;
 }
 .h1casaeconstrucao{
     position: relative;
     border-radius: 5px;
     width: 270px;
-    padding: 1.5px;
-    left: 0%;
+    border-radius: 5px 5px 0px 0px;
+    padding: 2px;
+    left: -0.7%;
     top: -166px;
     background-color: var(--cor1);
     border-radius: 2px 2px 2px white;
@@ -205,6 +218,7 @@ main > article > div.boxanimais{
     background-color: white;
     border-radius: px;
     border: 2px solid #ffc15e;
+    border-radius: 0px 0px 20px 20px;
  
  }
  .logoacademia{
@@ -212,13 +226,15 @@ main > article > div.boxanimais{
     width: 270px;
     height: 130px;
     left: 0px;
+    border-radius: 0px 0px 20px 20px;
 }
 .h1academia{
     position: relative;
     border-radius: 5px;
     width: 270px;
-    padding: 1.5px;
-    left: 0%;
+    border-radius: 5px 5px 0px 0px;
+    padding: 2px;
+    left: -0.7%;
     top: -166px;
     background-color: var(--cor1);
     border-radius: 2px 2px 2px white;
@@ -231,6 +247,7 @@ main > article > div.boxanimais{
     background-color: white;
     border-radius: px;
     border: 2px solid #ffc15e;
+    border-radius: 0px 0px 20px 20px;
  
  }
  .logolojas{
@@ -238,13 +255,15 @@ main > article > div.boxanimais{
     width: 270px;
     height: 130px;
     left: 0px;
+    border-radius: 0px 0px 20px 20px;
 }
 .h1lojas{
     position: relative;
     border-radius: 5px;
     width: 270px;
-    padding: 1.5px;
-    left: 0%;
+    border-radius: 5px 5px 0px 0px;
+    padding: 2px;
+    left: -0.7%;
     top: -166px;
     background-color: var(--cor1);
     border-radius: 2px 2px 2px white;
