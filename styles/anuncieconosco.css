@@ -121,6 +121,7 @@ menu > ul > li{
     display: flex;
     flex-wrap: wrap;
     padding: 10px;
+    margin: 20px;
     
 
 }
@@ -132,7 +133,7 @@ menu > ul > li{
     background-color: #2a0ae0;
 }
 .valores2{
-    
+    margin-top: 20px;
     margin:  auto;
     width: 330px;
     height: 160px;
