@@ -1,0 +1,148 @@
+@charset "UTF8";
+@import url('https://fonts.googleapis.com/css2?family= Patua +One & display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+:root{
+    --cor0: #29335c;
+    --cor1: #ffc15e;
+    --cor2: #f4faff;
+    --cor3: #00a6a6;
+    --cor4: #9a031e;
+    --cor5: #4f6d7a;
+    --fonte-padrao: arial, verdana, helvetica, sans-serif;
+    --fonte-destaque: "patua one", cursive;
+}
+body{
+    background-color: rgb(219, 216, 216);
+    
+}
+section.redessociais{
+    background-color: var(--cor0);
+    margin-bottom: 1px;
+    text-align: center;
+    height: 100px;
+}
+.h1redessociais{
+    position: relative;
+    padding: 10px;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+    text-align: left ;
+    
+}
+img.redes1{
+    position: relative;
+    width: 40px;
+    margin: 5px;
+    border-radius: 50%;
+    left: 0%;
+    top: 0px;
+}
+
+img.redes1:hover{
+    border: 1px solid #ffc15e;
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
+    transition: transform 0.4s, border .2s;
+}
+.logo{
+    background-color: var(--cor0);
+}
+.logo1{
+    width: 300px;
+}
+menu#itens{
+    background-color: var(--cor1);
+    padding: 5px;
+    text-align: center;
+}
+menu > ul > li > a.linkmenu{
+    color: black;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 3px;
+    
+    
+}
+menu >ul > li > a:hover{
+    background-color: var(--cor0);
+    color: white;
+    border-radius: 10px;
+    transition: color .2s;
+}
+menu > ul > li{
+    display: inline;
+    padding: 5px;
+}
+.anuncieconosco{
+    width: 90%;
+    margin: auto;
+    
+    box-shadow: 5px 5px 10px var(--cor0);
+}
+.h1anuncieconosco{
+    margin-top: 0px;
+    padding: 5px;
+    background-color: var(--cor0);
+    color: white;
+    text-shadow: 6px 6px 10px black;
+    text-align: center;   background-color: var(--cor0);
+}
+.panuncieconosco{
+    padding: 10px;
+    text-indent: 30px;
+    text-justify: auto;
+    background-color: white;
+    
+}
+.h2banneranuncie{
+    position: relative;
+    left: 0%;
+    top: 3px;
+    padding: 10px;
+    color: var(--cor0);
+    text-shadow: 1px 1px 1px var(--cor1);
+
+}
+.banneranuncio{
+   text-align: center;
+}
+.imgatendente{
+    width: 330px;
+    height: 110px;
+    border-radius: 20px;
+    margin: auto;
+    
+}
+.valores{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 20px;
+    
+
+}
+.valores1{
+    
+    margin:auto;
+    width: 330px;
+    height: 160px;
+    background-color: #2a0ae0;
+}
+.valores2{
+    margin-top: 20px;
+    margin:  auto;
+    width: 330px;
+    height: 160px;
+    background-color: #e00a0a;
+}
+
+livalores{
+    position: relative;
+    left: 7%;
+    top: 0px;
+    padding: 5px;
+}
